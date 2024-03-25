@@ -17,6 +17,9 @@ export default {
         <h1>
             questo è il merge
         </h1>
+        <h2>
+            add login
+        </h2>
     </header>
 </template>
 
