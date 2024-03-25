@@ -14,6 +14,7 @@ export default {
 <template>
     <footer>
         FOOTER
+        ciao
     </footer>
 </template>
 
