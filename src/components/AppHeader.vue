@@ -14,6 +14,9 @@ export default {
 <template>
     <header>
         HEADER
+        <h1>
+            questo è il merge
+        </h1>
     </header>
 </template>
 
