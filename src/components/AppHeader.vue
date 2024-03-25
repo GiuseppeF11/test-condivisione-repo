@@ -17,6 +17,9 @@ export default {
     <h2>
       Ciao 
     </h2>
+    <h1>
+      Capibara
+    </h1>
   </header>
 </template>
 
