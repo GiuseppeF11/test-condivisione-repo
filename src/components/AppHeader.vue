@@ -13,6 +13,10 @@ export default {
     <h1>questo è il merge</h1>
     <img src="logo" alt="logo" />
     <h2>add login</h2>
+
+    <h2>
+      Ciao 
+    </h2>
   </header>
 </template>
 
